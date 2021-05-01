@@ -1,5 +1,12 @@
 package inheritanceExample;
 
+import inheritanceExample.manager.InstructorManager;
+import inheritanceExample.manager.StudentManager;
+import inheritanceExample.manager.UserManager;
+import inheritanceExample.model.Instructor;
+import inheritanceExample.model.Student;
+import inheritanceExample.model.User;
+
 public class Main {
 
     public static void main(String[] args) {

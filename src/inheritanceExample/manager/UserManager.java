@@ -1,4 +1,6 @@
-package inheritanceExample;
+package inheritanceExample.manager;
+
+import inheritanceExample.model.User;
 
 public class UserManager {
 

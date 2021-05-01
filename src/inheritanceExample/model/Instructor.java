@@ -1,4 +1,4 @@
-package inheritanceExample;
+package inheritanceExample.model;
 
 public class Instructor extends User {
 

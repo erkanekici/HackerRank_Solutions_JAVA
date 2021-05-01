@@ -1,4 +1,4 @@
-package inheritanceExample;
+package inheritanceExample.model;
 
 public class User {
     private int id;

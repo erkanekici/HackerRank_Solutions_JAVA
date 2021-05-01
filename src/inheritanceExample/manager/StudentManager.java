@@ -1,4 +1,6 @@
-package inheritanceExample;
+package inheritanceExample.manager;
+
+import inheritanceExample.model.Student;
 
 public class StudentManager extends UserManager {
 

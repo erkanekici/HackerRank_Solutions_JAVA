@@ -1,4 +1,4 @@
-package inheritanceExample;
+package inheritanceExample.model;
 
 public class Student extends User {
     private int studentNumber;
